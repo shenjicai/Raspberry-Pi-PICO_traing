@@ -1,21 +1,4 @@
-<p align="center"><img style="float: right;" src="https://wechatapppro-1252524126.file.myqcloud.com/appU1KFqMYL7963/image/b_u_5def130d79889_zsLefqy6/kuqqho7j0rc7.png" /></p>
-
-****本代码库是硬禾学堂《嵌入式系统入门》课程的支持代码仓库，这里的例程和支持文件针对课程配套的训练板开发，适用于硬禾学堂MicroPython扩展训练板。****
-
-
-## 参考链接
-
--   MicroPython扩展学习板的硬件信息
-    <https://www.eetree.cn/project/detail/584>
-
--   一些有趣的案例
-    <https://www.eetree.cn/wiki/pico_micropython>
-
-
-# MicroPython扩展学习板点灯（上手教程）
-
-<p align="center"><img style="float: right;" src="https://wechatapppro-1252524126.file.myqcloud.com/appU1KFqMYL7963/image/b_u_5def130d79889_zsLefqy6/kuqqmkr30ewl.png" /></p>
-
+# Introdution
 
 # 目录结构
 
@@ -29,7 +12,7 @@
     `-- ria                # 测试应用程序，这里面存放为快速实验编写的应用程序，成熟后可能会放到app中
 
 
-# Jupyter笔记
+# Jason笔记
 
 -   01 关于MicroPython
 -   02 嵌入式系统基本概念及学习
@@ -47,5 +30,8 @@
 -   14 PIO/DMA产生任意信号波形
 -   15 综合 - 制作一个定时报时/RGB显示的时钟
 
-<p align="center"><img style="float: right;" src="http://wechatapppro-1252524126.file.myqcloud.com/appU1KFqMYL7963/image/44d838b990171176e5c55c2b73894db7.png" /></p>
+# 参考链接
 
+1. [嵌入式系统入门 - 从PCB设计、焊接到MicroPython编程](https://class.eetree.cn/p/t_pc/course_pc_detail/column/p_61527728e4b0b558b934e7c3)
+2. [MicroPython扩展学习板的硬件信息](https://www.eetree.cn/project/detail/584)
+3. [一些有趣的案例](https://www.eetree.cn/wiki/pico_micropython)
