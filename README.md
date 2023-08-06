@@ -3,8 +3,8 @@
 # 目录结构
 
     ./mpy-lecture-code/
+    |-- bsp                # 板级支持包，在运行应用程序之前，需要将这里的文件保存至pico内存中
     |-- app                # 应用程序，一个py文件代表一个应用程序
-    |-- bsp                # 板级支持包，在运行应用程序之前，需要将这里的文件上传pico根目录或者lib目录
     |-- help               # 帮助文件，micropython html版本帮助文件
     |-- makefile           # make构建脚本，可以用这个脚本管理代码库，完成开发流程
     |-- README.md          # 说明文件
@@ -35,3 +35,4 @@
 1. [嵌入式系统入门 - 从PCB设计、焊接到MicroPython编程](https://class.eetree.cn/p/t_pc/course_pc_detail/column/p_61527728e4b0b558b934e7c3)
 2. [MicroPython扩展学习板的硬件信息](https://www.eetree.cn/project/detail/584)
 3. [一些有趣的案例](https://www.eetree.cn/wiki/pico_micropython)
+4. [Gitee:picospuch / eetree-mpy-lecture-code](https://gitee.com/picospuch/eetree-mpy-lecture-code)
